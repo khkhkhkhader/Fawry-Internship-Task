@@ -24,7 +24,7 @@ B) The code will handle the options using while getopt allowing the script to id
 
 ![image](https://github.com/user-attachments/assets/78836b2e-e7f8-48eb-99ed-818ee922d620)
 
-C) The code will handle arguments as if the arguments are two it will processed any number else of arguments will print invalid input and a help message.
+C) The code will handle arguments as if the arguments are two it will processed, If any number else of arguments will print invalid input and a help message.
   The Script will also check the file if it's exists and readable or not 
 
 ![image](https://github.com/user-attachments/assets/db42e633-f941-413e-9391-eeed25df7655)
